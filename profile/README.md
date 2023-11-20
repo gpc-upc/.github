@@ -15,10 +15,11 @@ Actualmente contamos con 2 niveles de estudio.
 
   **Coach:** Luis Rivera Nuñez <br> <br>
   **Integrantes:** <br> <br>
-  Andrés Leiva | Dominik Mendoza |
+  Andrés Leiva Bautista | Dominik Mendoza Ramos | Jack Cruz Mamani | Marcelo Poggi Diaz | Oliver Tuesta Yoplac | Samuel Cano Chocce | Sebastian Valdivia Peceros
 
 * **Grupo Junior**
 
   **Coach:** Rodolfo Mercado Gonzales <br> <br>
   **Integrantes:** <br> <br>
-  Arian Rodríguez| Daniella Vargas |
+  Arian Rodríguez Vargas | Daniella Vargas Saldaña | Edison Coaguila Fuente | Jennifer Espinoza Quispe | John Sovero Cubillas | Josehp Herrera del Pino | Nicolas Guerrero Icochea | Rafael Chui Sanchez | Renzo Espíritu Cueva | Renzo Lenes Chuquicaña
+ 
