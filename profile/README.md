@@ -26,6 +26,6 @@ Actualmente contamos con 2 niveles de estudio.
 
 ### Deseas ser parte del GPC ?
 
-Si deseas ser parte de nuestro grupo de estudios, tienes que estar atento a las convocatorias en nuestras redes, normalmente realizamos una por cada ciclo.
-Aquí podrás encontrar mucho material que te ayudará a prepararte para ser parte del GPC-UPC.
+Si deseas ser parte de nuestro grupo de estudios, tienes que estar atento a las convocatorias en nuestras redes, normalmente realizamos una por cada ciclo. En nuestros repositorios
+podrás encontrar mucho material que te ayudará a prepararte para ser parte del GPC-UPC.
  
