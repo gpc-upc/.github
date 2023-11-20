@@ -1,4 +1,4 @@
-### Bienvenido !!
+### Bienvenido al GPC !!
 
 ---
 Somos el Grupo de Estudios de Programación Competitiva de la Universidad Peruana de Ciencias Aplicadas (GPC-UPC) y nos encargamos de capacitar en algoritmos y estructuras de datos a los
@@ -21,4 +21,10 @@ Actualmente contamos con 2 niveles de estudio.
   **Coach:** Rodolfo Mercado Gonzales <br> <br>
   **Integrantes:** <br> <br>
   Arian Rodríguez Vargas | Daniella Vargas Saldaña | Edison Coaguila Fuente | Jennifer Espinoza Quispe | John Sovero Cubillas | Josehp Herrera del Pino | Nicolas Guerrero Icochea | Rafael Chui Sanchez | Renzo Espíritu Cueva | Renzo Lenes Chuquicaña
+
+  ---
+
+### Deseas ser parte del GPC ?
+
+Si deseas ser parte de nuestro grupo de estudios, tienes que estar atento a las convocatorias en nuestras redes, normalmente realizamos una por cada ciclo.
  
