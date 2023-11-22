@@ -16,7 +16,7 @@ Actualmente contamos con 2 niveles de estudio.
 
   **Coach:** Luis Rivera Nuñez <br> <br>
   **Integrantes:** <br> <br>
-  Andrés Leiva Bautista | Dominik Mendoza Ramos | Jack Cruz Mamani | Marcelo Poggi Diaz | Oliver Tuesta Yoplac | Samuel Cano Chocce | Sebastian Valdivia Peceros
+  Andrés Leiva Bautista | Christian Cutipa Cañapataña | Dominik Mendoza Ramos | Jack Cruz Mamani | Marcelo Poggi Diaz | Oliver Tuesta Yoplac | Samuel Cano Chocce | Sebastian Valdivia Peceros
 
 * **Grupo Junior**
 
@@ -29,5 +29,5 @@ Actualmente contamos con 2 niveles de estudio.
 ### Deseas ser parte del GPC ?
 
 Si deseas ser parte de nuestro grupo de estudios, tienes que estar atento a las convocatorias en nuestras redes, normalmente realizamos una por cada ciclo. En nuestros repositorios
-podrás encontrar mucho material que te ayudará a prepararte para ser parte del GPC-UPC.
+podrás encontrar mucho material que te ayudará a prepararte para lograr ser parte del GPC-UPC.
  
