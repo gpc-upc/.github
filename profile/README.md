@@ -22,7 +22,7 @@ Actualmente contamos con 2 niveles de estudio.
 
   **Coach:** Rodolfo Mercado Gonzales <br> <br>
   **Integrantes:** <br> <br>
-  Arian Rodríguez Vargas | Daniella Vargas Saldaña | Edison Coaguila Fuente | Jennifer Espinoza Quispe | John Sovero Cubillas | Josehp Herrera del Pino | Nicolas Guerrero Icochea | Rafael Chui Sanchez | Renzo Espíritu Cueva | Renzo Lenes Chuquicaña
+  Arian Rodríguez Vargas | Carlos Castilla | Daniella Vargas Saldaña | Edison Coaguila Fuente | Jennifer Espinoza Quispe | John Sovero Cubillas | Josehp Herrera del Pino | Joseph Huamaní Mandujano | Luis Umiña Navia | Nicolas Guerrero Icochea | Rafael Chui Sanchez | Renzo Espíritu Cueva | Renzo Lenes Chuquicaña
 
 ---
 
