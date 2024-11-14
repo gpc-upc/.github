@@ -14,15 +14,11 @@ Actualmente contamos con 2 niveles de estudio.
 
 * **Grupo Senior**
 
-  **Coach:** Luis Rivera Nuñez <br> <br>
-  **Integrantes:** <br> <br>
-  Andrés Leiva Bautista | Christian Cutipa Cañapataña | Dominik Mendoza Ramos | Marcelo Poggi Diaz | Oliver Tuesta Yoplac | Samuel Cano Chocce | Sebastian Valdivia Peceros
+  Andrés Leiva Bautista | Carlos Castilla Ochoa | Edison Coaguila Fuentes | John Sovero Cubillas | Marcelo Poggi Diaz | Mauricio Elera Rodríguez | Oliver Tuesta Yoplac | Samuel Cano Chocce | Sebastian Valdivia Peceros
 
 * **Grupo Junior**
 
-  **Coach:** Rodolfo Mercado Gonzales <br> <br>
-  **Integrantes:** <br> <br>
-Andrea Tapia Pescoran | Carlos Castilla Ochoa | Daniella Vargas Saldaña | Diego Defilippi Santillan | Edison Coaguila Fuente | Gwyneth Segura Silva | Jennifer Espinoza Quispe | John Sovero Cubillas | Josehp Herrera del Pino | Luis Umiña Navia | Mauricio Elera Rodriguez | Melissa Tam Ingar | Nicolas Guerrero Icochea | Renzo Espíritu Cueva | Renzo Lenes Chuquicaña
+Alex Avila Asto | Alexander Miranda Vivanco | Ariana Agreda Sobrino | Claudia Belledonne Espinoza | Claudia Sifuentes Mendieta | Cristian Coaguila Fuentes | Daniella Vargas Saldaña | Diego Mucha Alvarez | Eduardo Rivera Sosa | Fabrizio Santi Guerrero | Gabriela Shapiama Rivera | Imanol Limache Coronel | Jennifer Espinoza Quispe | Maria Munayco Apolaya | Matias del Castillo Mendoza | Mauricio Pajes León | Melissa Tam Ingar | Miguel Hallasi Saravia | Pamela Rivera Contreras | Renzo Espíritu Cueva | Sebastian Luna Centeno | Sergio Iglesias Perez | Vanessa Barrientos Villalta
 
 ---
 
