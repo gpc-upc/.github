@@ -18,7 +18,10 @@ Actualmente contamos con 2 niveles de estudio.
 
 * **Grupo Junior**
 
-Alex Avila Asto | Alexander Miranda Vivanco | Ariana Agreda Sobrino | Claudia Belledonne Espinoza | Claudia Sifuentes Mendieta | Cristian Coaguila Fuentes | Daniella Vargas Saldaña | Diego Mucha Alvarez | Eduardo Rivera Sosa | Fabrizio Santi Guerrero | Gabriela Shapiama Rivera | Imanol Limache Coronel | Jennifer Espinoza Quispe | Maria Munayco Apolaya | Matias del Castillo Mendoza | Mauricio Pajes León | Melissa Tam Ingar | Miguel Hallasi Saravia | Pamela Rivera Contreras | Renzo Espíritu Cueva | Sebastian Luna Centeno | Sergio Iglesias Perez | Vanessa Barrientos Villalta
+  Alex Avila Asto | Alexander Miranda Vivanco | Ariana Agreda Sobrino | Claudia Belledonne Espinoza | Claudia Sifuentes Mendieta | Cristian Coaguila Fuentes | Daniella Vargas Saldaña | 
+  Diego Mucha Alvarez | Eduardo Rivera Sosa | Fabrizio Santi Guerrero | Gabriela Shapiama Rivera | Imanol Limache Coronel | Jennifer Espinoza Quispe | Maria Munayco Apolaya | Matias del 
+  Castillo Mendoza | Mauricio Pajes León | Melissa Tam Ingar | Miguel Hallasi Saravia | Pamela Rivera Contreras | Renzo Espíritu Cueva | Sebastian Luna Centeno | Sergio Iglesias Perez | 
+  Vanessa Barrientos Villalta
 
 ---
 
