@@ -10,6 +10,11 @@ El principal lenguaje de programación que usamos en C++, alternativamente tambi
 
 ### Cómo esta conformado el GPC ?
 
+* **Coaches**
+  * Hans Amaro Robladillo
+  * Luis Rivera Nuñez
+  * Rodolfo Mercado Gonzales
+
 Actualmente contamos con 2 niveles de estudio.
 
 * **Grupo Senior**
