@@ -22,7 +22,7 @@ Cristian Coaguila Fuentes | Daniella Vargas Saldaña | Edison Coaguila Fuentes |
 
 * **Grupo Junior**
 
-Gabriela Shapiama Rivera | Maria Munayco Apolaya | Pamela Rivera Contreras | 
+Aaron Barrientos Villalta | Alejandra Astocondor Bazan | Angel Crispin Valdivia | Gabriela Shapiama Rivera | Jennifer Espinoza Quispe | Joaquin Luna Campos | Marcelo Pareja Calloapaza | Meyshel Ospinal Lopez | Pamela Rivera Contreras | Shirley Huaringa Alvan | 
   
 ---
 
